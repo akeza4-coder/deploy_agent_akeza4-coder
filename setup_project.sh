@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 1. Ask for project name
-echo "Enter project name:"
-read input
+read -p "Enter project name: " input
+
 PROJECT="attendance_tracker_${input}"
 
 # 2. Handle Ctrl+C
@@ -44,3 +44,4 @@ else
 fi
 
 echo "Project setup complete!"
+
