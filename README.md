@@ -7,4 +7,4 @@
 
 ```bash
 ./setup_project.sh
-link to the video https://youtu.be/rjzZK7XBrAk?si=Y9eYIBfzFjnnNWJI
+my youtube video that explains everything : https://youtu.be/kzRy9cGqj74
